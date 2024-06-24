@@ -1,5 +1,6 @@
 # La Sombra de Mac - Juego
-![image](https://github.com/cindy1404hsieh/Materias-FIUBA/assets/90338162/4c0fdf33-e965-42a4-94e3-6a60fd88684a)
+![image](https://github.com/cindy1404hsieh/Fundamentos-de-Programacion/assets/90338162/4ed83959-ad83-4384-9ea3-6c837ffef77d)
+
 
 
 ## Descripción
